@@ -1,8 +1,4 @@
-Here you go — the same README, fully in clean **Markdown format**:
 
----
-
-```markdown
 # **BinaryOxide Ubuntu**
 
 A personal Ubuntu setup created for my own workflow, experiments, and customization.  
