@@ -68,13 +68,5 @@ Feel free to:
 
 ---
 
-## 🌱 Future Improvements
-
-- Better documentation  
-- A one-command auto-setup script  
-- GPU/dev tools configuration  
-- More desktop customization profiles  
 
 
-
-Just tell me!
