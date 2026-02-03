@@ -1,5 +1,4 @@
 
-# **BinaryOxide Ubuntu**
 
 A personal Ubuntu setup created for my own workflow, experiments, and customization.  
 This repository stores my configs, themes, tweaks, and notes — mainly for my own use, but anyone is free to explore or use them if they find something helpful.
